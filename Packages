@@ -1,0 +1,14 @@
+Package: com.ShadowStonk.jw.SailyInstaller_0.0.1_iphoneos-arm.deb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Yourname <email (put in <>)>
+Depends: firmware (>= 11.0)
+Filename: /SailyInstaller.deb
+Size: 40033316
+MD5sum: 68cba9a0a418e2552d7b31702b628cf1
+SHA1: 56c35fdc1aa96b8bfdec70b3e901db85daf70e04
+SHA256: 61405a531420de32cd3e75708684850a577a5c569d0feb24e62fa833059ff1ab
+Section: Tweaks
+Description: Saily Package Manager Internal Build Download. :)
+Author: Lakr Aream
+Name: Saily Installer (TEST)
